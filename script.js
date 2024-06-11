@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const password = document.getElementById("password").value;
 
         // Check if the username and password match
-        if (username === "Joachim" && password === "Joachimspw") {
+        if (username === "Username" && password === "Password") {
             // Redirect to the specified URL
             window.location.href = "https://hendriksgithub.github.io/Prototype-website/";
         } else {
